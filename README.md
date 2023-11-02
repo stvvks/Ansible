@@ -1,1 +1,1 @@
-# Ansible
+# Ansible playbook to create servers with Jenkins installed.
